@@ -11,7 +11,7 @@ esx_vehicleshop
 
 ## Installation
 
-Download from the releases tab in GitHub. Extract and place the enc0ded-persistent-vehicles in your resources folder. Start the resource.
+Download from the releases tab in GitHub. Extract and place the esx-persistent-vehicles in your resources folder. Start the resource.
 
 ```bash
 start esx-persistent-vehicles
